@@ -1,0 +1,4 @@
+__pycache__/
+_hf_clone_tmp/
+.ipynb_checkpoints/
+*.pyc

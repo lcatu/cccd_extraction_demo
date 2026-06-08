@@ -1,0 +1,7 @@
+gradio
+ultralytics
+vietocr
+Pillow>=10.0.0,<11.0.0
+opencv-python-headless
+torch
+qrdet
