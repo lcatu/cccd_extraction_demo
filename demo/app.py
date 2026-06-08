@@ -124,7 +124,6 @@ def postprocess_text(field, text):
         return text
         
     elif field in ['origin', 'residence']:
-        text = re.sub(r'^\d+\s+', '', text)
         text = re.sub(r'\s+\d+$', '', text)
         text = text.strip(" ,.-")
         return text.strip()
