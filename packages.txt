@@ -1,2 +1,1 @@
-libgl1
-libglib2.0-0
+# Trống (Streamlit không cần file này vì đã dùng opencv-python-headless)
